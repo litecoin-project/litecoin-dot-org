@@ -10,6 +10,7 @@
     title = "Valuta digitale per pagamenti"
     subtitle = "basati sulla tecnologia Blockchain"
     otherversions = "Altre versioni"
+    buylitecoin = "Acquista Litecoin"
 
   # Navigation
   [Languages.it.navigation]

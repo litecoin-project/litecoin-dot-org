@@ -10,6 +10,7 @@
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
    otherversions = "Jiné verze"
+   buylitecoin = "Koupit Litecoin"
 
   # Navigation
   [Languages.cs.navigation]

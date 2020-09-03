@@ -10,6 +10,7 @@
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
    otherversions = "Muut versiot"
+   buylitecoin = "Osta Litecoin"
 
   # Navigation
   [Languages.fi.navigation]

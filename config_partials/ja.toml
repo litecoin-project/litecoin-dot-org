@@ -10,6 +10,7 @@
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
    otherversions = "他のバージョン"
+   buylitecoin = "ライトコインを購入"
 
   # Navigation
   [Languages.ja.navigation]

@@ -10,6 +10,7 @@
    title = "Ödemeler İçin Kripto Para"
    subtitle = "Blockchain Teknolojisine Dayalı"
    otherversions = "Diğer sürümler"
+   buylitecoin = "Litecoin satın alın"
 
   # Navigation
   [Languages.tr.navigation]

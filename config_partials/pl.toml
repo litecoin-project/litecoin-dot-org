@@ -10,6 +10,7 @@
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
    otherversions = "Inne wersje"
+   buylitecoin = "Kup Litecoin"
 
   # Navigation
   [Languages.pl.navigation]

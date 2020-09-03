@@ -10,6 +10,7 @@
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
    otherversions = "Andra versioner"
+   buylitecoin = "Köp Litecoin"
 
   # Navigation
   [Languages.sv.navigation]
